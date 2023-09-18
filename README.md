@@ -1,6 +1,5 @@
-![logo](https://github.com/Usman72410/silver-succotash/blob/main/coding.jpeg)
 <h1 align="center">Hi 👋, I'm Anonymous Kid</h1>
-<h3 align="center">A passionate frontend/back end developer Black Heart Hacker from UAE</h3>
+<h3 align="center">A passionate frontend/back end developer Black Heart Hacker from ABJ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman72410&label=Profile%20views&color=0e75b6&style=flat" alt="usman72410" /> </p>
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/usman_amin" target="blank"><img src="https://img.shields.io/twitter/follow/usman_amin?logo=twitter&style=for-the-badge" alt="usman_amin" /></a> </p>
 
-- 🔭 I’m currently working on [Black Heart](https://www.brsoftech.com/)
+- 🔭 I’m currently working on [white  Heart](https://www.brsoftech.com/)
 
 - 🌱 I’m currently Working as **Eithical Hacker**
 
